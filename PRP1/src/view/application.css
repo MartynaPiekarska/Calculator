@@ -1,0 +1,52 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.background {
+	-fx-background-color: #808080;
+	-fx-font-size:36;
+	-fx-font-weight:bold;
+	-fx-text-fill: white;
+}
+
+
+.digit {
+	-fx-border-color: #808080;
+	-fx-font-size:28;
+	-fx-font-weight:bold;
+}
+
+.digit:hover {
+		-fx-background-color: grey;
+}
+
+.digit:focused {
+		-fx-background-color: yellow;
+}
+
+.sign {
+	-fx-border-color: #808080;
+	-fx-font-size:28;
+	-fx-font-weight:bold;
+	-fx-text-fill: #FFFFFF;
+	-fx-background-color: #FF8000;
+}
+
+.sign:hover {
+		-fx-background-color: grey;
+}
+
+.sign:focused {
+		-fx-background-color: yellow;
+		
+}
+
+.sign2 {
+	-fx-border-color: #808080;
+	-fx-font-size:28;
+	-fx-font-weight:bold;
+	-fx-background-color: #99FF99;
+}
+
+.sign2:hover {
+		-fx-background-color: grey;
+}
+
+
